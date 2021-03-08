@@ -12,6 +12,9 @@
   },
   "author": "Isac X",
   "license": "ISC",
+  "engines": {
+    "node": "14.16.0"
+  },
   "bugs": {
     "url": "https://github.com/isacssw/todolist-v1/issues"
   },
